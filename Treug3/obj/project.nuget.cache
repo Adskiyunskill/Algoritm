@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uEg5dghCUQVilVGVNRTec6CIiebiPQfOXnWSS0t64MqV8jCZdLb023//yE4jcDtVDU2KEJ83vOZGQ00idCeAuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agari\\Source\\Repos\\Algoritm\\Treug3\\Treug3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\agari\source\repos\Algoritm\Treug3\bin\Debug\net5.0\Treug3.exe
+C:\Users\agari\source\repos\Algoritm\Treug3\bin\Debug\net5.0\Treug3.deps.json
+C:\Users\agari\source\repos\Algoritm\Treug3\bin\Debug\net5.0\Treug3.runtimeconfig.json
+C:\Users\agari\source\repos\Algoritm\Treug3\bin\Debug\net5.0\Treug3.runtimeconfig.dev.json
+C:\Users\agari\source\repos\Algoritm\Treug3\bin\Debug\net5.0\Treug3.dll
+C:\Users\agari\source\repos\Algoritm\Treug3\bin\Debug\net5.0\Treug3.pdb
+C:\Users\agari\source\repos\Algoritm\Treug3\obj\Debug\net5.0\Treug3.csproj.AssemblyReference.cache
+C:\Users\agari\source\repos\Algoritm\Treug3\obj\Debug\net5.0\Treug3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agari\source\repos\Algoritm\Treug3\obj\Debug\net5.0\Treug3.AssemblyInfoInputs.cache
+C:\Users\agari\source\repos\Algoritm\Treug3\obj\Debug\net5.0\Treug3.AssemblyInfo.cs
+C:\Users\agari\source\repos\Algoritm\Treug3\obj\Debug\net5.0\Treug3.csproj.CoreCompileInputs.cache
+C:\Users\agari\source\repos\Algoritm\Treug3\obj\Debug\net5.0\Treug3.dll
+C:\Users\agari\source\repos\Algoritm\Treug3\obj\Debug\net5.0\refint\Treug3.dll
+C:\Users\agari\source\repos\Algoritm\Treug3\obj\Debug\net5.0\Treug3.pdb
+C:\Users\agari\source\repos\Algoritm\Treug3\obj\Debug\net5.0\Treug3.genruntimeconfig.cache
+C:\Users\agari\source\repos\Algoritm\Treug3\obj\Debug\net5.0\ref\Treug3.dll
