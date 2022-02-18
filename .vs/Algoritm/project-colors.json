@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75a78d34-0fa9-4cc4-9224-e846334576a7": {
+      "ProjectGuid": "75a78d34-0fa9-4cc4-9224-e846334576a7",
+      "DisplayName": "MH",
+      "ColorIndex": 0
+    },
+    "5a55d002-03f4-4b62-ad7f-5043ae49a104": {
+      "ProjectGuid": "5a55d002-03f4-4b62-ad7f-5043ae49a104",
+      "DisplayName": "MS",
+      "ColorIndex": 1
+    },
+    "d7a1fba9-a831-4503-8744-5e213958eeb4": {
+      "ProjectGuid": "d7a1fba9-a831-4503-8744-5e213958eeb4",
+      "DisplayName": "Treug1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

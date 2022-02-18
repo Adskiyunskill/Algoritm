@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7bx/sj8T8c4clao4Ua5i1hzLjtUHxE/uRw8UvzWoKDCkfkJs/QBAEnqt80IQwU5D4akI6M34Oqix3SMt5oG3Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Project C#\\MH\\Treug22\\Treug22.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

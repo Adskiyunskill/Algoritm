@@ -1,0 +1,16 @@
+C:\Project C#\MH\Treug22\obj\Release\net5.0\Treug22.csproj.AssemblyReference.cache
+C:\Project C#\MH\Treug22\obj\Release\net5.0\Treug22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project C#\MH\Treug22\obj\Release\net5.0\Treug22.AssemblyInfoInputs.cache
+C:\Project C#\MH\Treug22\obj\Release\net5.0\Treug22.AssemblyInfo.cs
+C:\Project C#\MH\Treug22\obj\Release\net5.0\Treug22.csproj.CoreCompileInputs.cache
+C:\Project C#\MH\Treug22\bin\Release\net5.0\Treug22.exe
+C:\Project C#\MH\Treug22\bin\Release\net5.0\Treug22.deps.json
+C:\Project C#\MH\Treug22\bin\Release\net5.0\Treug22.runtimeconfig.json
+C:\Project C#\MH\Treug22\bin\Release\net5.0\Treug22.runtimeconfig.dev.json
+C:\Project C#\MH\Treug22\bin\Release\net5.0\Treug22.dll
+C:\Project C#\MH\Treug22\bin\Release\net5.0\Treug22.pdb
+C:\Project C#\MH\Treug22\obj\Release\net5.0\Treug22.dll
+C:\Project C#\MH\Treug22\obj\Release\net5.0\refint\Treug22.dll
+C:\Project C#\MH\Treug22\obj\Release\net5.0\Treug22.pdb
+C:\Project C#\MH\Treug22\obj\Release\net5.0\Treug22.genruntimeconfig.cache
+C:\Project C#\MH\Treug22\obj\Release\net5.0\ref\Treug22.dll
